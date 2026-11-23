@@ -1,0 +1,1047 @@
+Feature,Importance
+numeric__d_12,0.18591329462859565
+numeric__d_03,0.08308144341866161
+numeric__d_15c,0.050364617487126624
+numeric__c1_20,0.03431060113226666
+numeric__c1_03,0.029936598353995803
+numeric__d_06,0.02946539741649318
+numeric__d_21b,0.026244930423344144
+numeric__d_17,0.025524499404684944
+numeric__c1_21,0.020213598035334894
+numeric__d_22,0.020197385567096472
+numeric__d_09_3,0.019653047135571415
+numeric__d_21,0.019404491935431853
+numeric__d_12b,0.019188356468308077
+numeric__a_01_province,0.01858841643874215
+numeric__d_15a,0.017600476334969493
+numeric__c1_06,0.017109045147240265
+numeric__n1_01_11,0.016762791305382878
+numeric__d_14,0.016043028977833895
+numeric__n1_0,0.015597766049286537
+numeric__d_05,0.014385059472916253
+numeric__d_20a,0.014366559485888757
+numeric__d_15b,0.014301931249838515
+numeric__n2_07,0.013995036807570395
+categorical__c1_11_7,0.011236893975663229
+numeric__d_08,0.011109840396360118
+numeric__n1_03_11,0.011026978369701812
+numeric__c_present_housing,0.010970381854255912
+numeric__n2_04,0.010687059790126631
+categorical__n2_02_1,0.01054909702940026
+numeric__n2_05,0.009660946624342005
+numeric__c1_02,0.009623879742385986
+categorical__d_09_3,0.009331936908053617
+numeric__c1_08,0.009300571385429907
+numeric__d_21c,0.009012136730899694
+numeric__n2_06,0.008662592035250207
+numeric__d_12c,0.008300105157043767
+numeric__d_20b,0.007896656937271348
+numeric__c1_19,0.0076972834123780285
+numeric__d_22b,0.006975275898109314
+numeric__d_16,0.006830449502378334
+numeric__n2_02_3,0.006665897339610863
+numeric__n1_05a_4,0.006318957501269738
+numeric__c1_17,0.0057748645857244475
+numeric__d_12a,0.005425460776115822
+numeric__n1_04_4_3,0.005280758524913796
+numeric__d_09_4,0.005231821965867731
+numeric__d_09_6,0.005165763459477026
+numeric__d_01,0.005038584321614767
+numeric__c1_15_2,0.004979000894918727
+numeric__d_20c,0.004843923949341175
+numeric__n1_05a_2,0.004773104374279576
+numeric__n1_06_11,0.004770653474680516
+numeric__c1_10,0.004504197085587765
+numeric__d_21a,0.004448206505220176
+numeric__a_05,0.004255163378954854
+categorical__c1_15_2 3,0.004119284212231931
+categorical__a_02_district_24,0.00391310591872776
+categorical__d_11_1 2,0.0038595586203672132
+numeric__d_22a,0.003545969482462381
+categorical__d_11_1 2 3,0.003425530577300022
+categorical__c1_14_1,0.003282554606622318
+categorical__a_02_district_15,0.0032236086204203477
+numeric__c1_22,0.003039402413539183
+numeric__d_09_2,0.003039402413539183
+numeric__c1_16,0.002964141020442022
+numeric__d_18,0.002735462172185265
+numeric__d_20,0.0024315219308313463
+numeric__c1_18,0.0018236414481235098
+categorical__n1_04_1_8 9 12,0.0
+categorical__n1_04_1_7 8,0.0
+categorical__n1_04_1_8,0.0
+categorical__n1_04_1_7 999,0.0
+categorical__n1_04_1_8 11,0.0
+categorical__n1_04_1_8 9,0.0
+categorical__n1_04_1_8 9 11,0.0
+categorical__n1_04_1_8 9 999,0.0
+categorical__n1_04_1_9,0.0
+categorical__n1_04_1_4 999,0.0
+categorical__n1_04_1_7,0.0
+categorical__n1_04_1_3 9,0.0
+categorical__n1_04_1_3 7 8,0.0
+categorical__n1_04_1_3 6,0.0
+categorical__n1_04_1_3 5 7 9,0.0
+categorical__n1_04_1_3 5,0.0
+categorical__n1_04_1_3 4 6,0.0
+categorical__n1_04_1_3 4,0.0
+categorical__n1_04_1_3,0.0
+categorical__n1_04_1_2 6,0.0
+categorical__n1_04_1_2 5,0.0
+categorical__n1_04_1_2 4,0.0
+categorical__n1_04_1_2 3,0.0
+categorical__n1_04_1_2 12,0.0
+categorical__n1_04_1_2,0.0
+categorical__n1_04_1_12,0.0
+categorical__n1_04_1_11 12,0.0
+categorical__n1_04_1_11,0.0
+categorical__n1_04_1_10 11 12,0.0
+categorical__n1_04_1_3 7 9,0.0
+categorical__n1_04_1_4,0.0
+categorical__n1_04_1_6 9,0.0
+categorical__n1_04_1_4 11,0.0
+categorical__n1_04_1_6 8 9,0.0
+categorical__n1_04_1_6 7 8,0.0
+categorical__n1_04_1_6 7,0.0
+categorical__n1_04_1_6,0.0
+categorical__n1_04_1_5 12,0.0
+categorical__n1_04_1_5,0.0
+categorical__n1_04_1_9 12,0.0
+categorical__n1_04_1_4 9,0.0
+categorical__n1_04_1_4 8 9 12,0.0
+categorical__n1_04_1_4 7 8 9 11,0.0
+categorical__n1_04_1_4 7 8,0.0
+categorical__n1_04_1_4 7,0.0
+categorical__n1_04_1_4 6 8 12,0.0
+categorical__n1_04_1_4 6 7,0.0
+categorical__n1_04_1_4 6,0.0
+categorical__n1_04_1_4 5 9,0.0
+categorical__n1_04_1_4 5,0.0
+categorical__n1_04_1_9 11,0.0
+numeric__hh_type,0.0
+categorical__n1_04_1_999,0.0
+categorical__n1_04_1_1 9,0.0
+categorical__n1_04_3_1,0.0
+categorical__n1_04_3_1 8 9,0.0
+categorical__n1_04_3_12,0.0
+categorical__n1_04_3_2,0.0
+categorical__n1_04_3_2 4,0.0
+categorical__n1_04_3_2 6,0.0
+categorical__n1_04_3_3,0.0
+categorical__n1_04_3_3 7,0.0
+categorical__n1_04_3_4,0.0
+categorical__n1_04_3_4 5,0.0
+categorical__n1_04_3_4 8 999,0.0
+categorical__n1_04_3_5,0.0
+categorical__n1_04_3_6,0.0
+categorical__n1_04_3_6 8,0.0
+categorical__n1_04_3_7,0.0
+categorical__n1_04_3_7 9,0.0
+categorical__n1_04_3_8,0.0
+categorical__n1_04_3_8 9,0.0
+categorical__n1_04_3_9,0.0
+categorical__n1_04_3_999,0.0
+categorical__n1_04_4_1,0.0
+categorical__n1_04_4_1 4,0.0
+categorical__n1_04_4_1 9,0.0
+categorical__n1_04_4_11,0.0
+categorical__n1_04_4_12,0.0
+categorical__n1_04_4_2,0.0
+categorical__n1_04_4_2 7,0.0
+categorical__n1_04_2_999,0.0
+categorical__n1_04_2_9,0.0
+categorical__n1_04_2_8 9,0.0
+categorical__n1_04_2_3 4 7,0.0
+categorical__n1_04_2_1,0.0
+categorical__n1_04_2_1 4,0.0
+categorical__n1_04_2_1 4 8,0.0
+categorical__n1_04_2_1 7,0.0
+categorical__n1_04_2_11,0.0
+categorical__n1_04_2_12,0.0
+categorical__n1_04_2_2,0.0
+categorical__n1_04_2_2 3 4 5,0.0
+categorical__n1_04_2_2 3 9,0.0
+categorical__n1_04_2_2 4 7,0.0
+categorical__n1_04_2_3,0.0
+categorical__n1_04_2_3 11,0.0
+categorical__n1_04_2_3 7,0.0
+categorical__n1_04_2_8,0.0
+categorical__n1_04_2_3 7 8,0.0
+categorical__n1_04_2_3 8 12,0.0
+categorical__n1_04_2_3 9,0.0
+categorical__n1_04_2_4,0.0
+categorical__n1_04_2_4 5 7 8,0.0
+categorical__n1_04_2_4 6,0.0
+categorical__n1_04_2_4 8,0.0
+categorical__n1_04_2_5,0.0
+categorical__n1_04_2_5 7,0.0
+categorical__n1_04_2_6,0.0
+categorical__n1_04_2_7,0.0
+categorical__n1_04_2_7 8,0.0
+categorical__n1_04_1_1 999,0.0
+categorical__d_11_4,0.0
+categorical__n1_04_1_1 8 9,0.0
+categorical__d_09_2 3 5,0.0
+categorical__d_09_2 3 8,0.0
+categorical__d_09_2 4,0.0
+categorical__d_09_2 4 5,0.0
+categorical__d_09_2 4 5 6,0.0
+categorical__d_09_2 5,0.0
+categorical__d_09_2 5 6,0.0
+categorical__d_09_2 5 6 7,0.0
+categorical__d_09_2 6,0.0
+categorical__d_09_2 6 7,0.0
+categorical__d_09_3 4,0.0
+categorical__d_09_3 4 5,0.0
+categorical__d_09_3 4 5 6,0.0
+categorical__d_09_3 4 5 6 7,0.0
+categorical__d_09_3 4 5 6 7 8,0.0
+categorical__d_09_3 4 6,0.0
+categorical__d_09_3 4 6 7,0.0
+categorical__d_09_3 5,0.0
+categorical__d_09_3 5 6,0.0
+categorical__d_09_3 6 7,0.0
+categorical__d_09_3 7,0.0
+categorical__d_09_4,0.0
+categorical__d_09_4 5,0.0
+categorical__d_09_4 5 6,0.0
+categorical__d_09_4 6,0.0
+categorical__d_09_4 7,0.0
+categorical__d_09_5,0.0
+categorical__d_09_5 6,0.0
+categorical__d_09_2 3 5 6,0.0
+categorical__d_09_2 3 4 8,0.0
+categorical__n1_04_1_1 7,0.0
+categorical__d_09_2 3 4 6,0.0
+categorical__d_09_1 2 5,0.0
+categorical__d_09_1 2 5 6,0.0
+categorical__d_09_1 2 6,0.0
+categorical__d_09_1 2 6 7,0.0
+categorical__d_09_1 2 7,0.0
+categorical__d_09_1 3,0.0
+categorical__d_09_1 3 4,0.0
+categorical__d_09_1 3 4 5,0.0
+categorical__d_09_1 3 4 5 6,0.0
+categorical__d_09_1 3 4 6,0.0
+categorical__d_09_1 3 5,0.0
+categorical__d_09_1 3 5 6,0.0
+categorical__d_09_1 3 6,0.0
+categorical__d_09_1 4,0.0
+categorical__d_09_1 4 5,0.0
+categorical__d_09_1 4 5 6,0.0
+categorical__d_09_1 4 5 6 7,0.0
+categorical__d_09_1 4 5 7 8,0.0
+categorical__d_09_1 4 7,0.0
+categorical__d_09_1 5,0.0
+categorical__d_09_1 6,0.0
+categorical__d_09_1 6 7,0.0
+categorical__d_09_2,0.0
+categorical__d_09_2 3,0.0
+categorical__d_09_2 3 4,0.0
+categorical__d_09_2 3 4 5,0.0
+categorical__d_09_2 3 4 5 6,0.0
+categorical__d_09_5 6 7,0.0
+categorical__d_09_6,0.0
+categorical__d_09_7,0.0
+categorical__d_09_7 13,0.0
+categorical__d_11_3 6,0.0
+categorical__n1_04_4_3,0.0
+categorical__d_11_4 5,0.0
+categorical__d_11_4 5 6,0.0
+categorical__d_11_5,0.0
+categorical__d_11_5 6,0.0
+categorical__d_11_6,0.0
+categorical__n1_01_other_Community society in villege,0.0
+categorical__n1_01_other_DAMMIKA TRADE CENTER Privet Limited,0.0
+categorical__n1_01_other_EDUCATION SERVICE LOAN,0.0
+categorical__n1_01_other_Electricity Board,0.0
+categorical__n1_01_other_Funeral socity,0.0
+categorical__n1_01_other_Gamidiriya,0.0
+categorical__n1_01_other_MORTUARY SOCIETY,0.0
+categorical__n1_01_other_NATIONAL HOUSING DEVELOPMENT AUTHORITY,0.0
+categorical__n1_01_other_NHA,0.0
+categorical__n1_01_other_NIWASA SANWARDHANA ADIKARIYA,0.0
+categorical__n1_01_other_SINGER company,0.0
+categorical__n1_01_other_WELFARE SOCIETY,0.0
+categorical__n1_01_other_Welfare society,0.0
+categorical__n1_01_other_Women Society,0.0
+categorical__n1_04_1_1,0.0
+categorical__n1_04_1_1 2 4,0.0
+categorical__n1_04_1_1 3,0.0
+categorical__n1_04_1_1 4,0.0
+categorical__n1_04_1_1 4 7,0.0
+categorical__n1_04_1_1 4 8,0.0
+categorical__d_11_3 4 5,0.0
+categorical__d_11_3 4,0.0
+categorical__d_11_3,0.0
+categorical__d_11_1 4,0.0
+categorical__d_11_0,0.0
+categorical__d_11_1,0.0
+categorical__d_11_1 2 3 4,0.0
+categorical__d_11_1 2 3 4 5,0.0
+categorical__d_11_1 2 3 5,0.0
+categorical__d_11_1 2 3 5 7,0.0
+categorical__d_11_1 2 4,0.0
+categorical__d_11_1 2 5,0.0
+categorical__d_11_1 2 5 6,0.0
+categorical__d_11_1 3,0.0
+categorical__d_11_1 3 4,0.0
+categorical__d_11_1 3 4 5,0.0
+categorical__d_11_1 4 5,0.0
+categorical__d_11_2 7 8,0.0
+categorical__d_11_1 5,0.0
+categorical__d_11_1 5 6,0.0
+categorical__d_11_1 6,0.0
+categorical__d_11_2,0.0
+categorical__d_11_2 3,0.0
+categorical__d_11_2 3 4,0.0
+categorical__d_11_2 3 4 5,0.0
+categorical__d_11_2 3 5,0.0
+categorical__d_11_2 3 7,0.0
+categorical__d_11_2 4,0.0
+categorical__d_11_2 5,0.0
+categorical__d_11_2 6,0.0
+categorical__n1_04_4_2 8,0.0
+categorical__n1_04_5_7,0.0
+categorical__n1_04_4_3 9,0.0
+categorical__n1_04_other_3_Foreign education,0.0
+categorical__n1_04_other_2_Foreign Job,0.0
+categorical__n1_04_other_2_Go to abroad but not success,0.0
+categorical__n1_04_other_2_PERSON REASON,0.0
+categorical__n1_04_other_2_SON EDUCATION,0.0
+categorical__n1_04_other_2_Study,0.0
+categorical__n1_04_other_2_Wedding,0.0
+categorical__n1_04_other_2_excavation work,0.0
+categorical__n1_04_other_3_BICK REPIRE,0.0
+categorical__n1_04_other_3_DETH OF MOTHER,0.0
+categorical__n1_04_other_3_EDUCATION,0.0
+categorical__n1_04_other_3_Education free,0.0
+categorical__n1_04_other_3_For home alms,0.0
+categorical__n1_04_other_3_For their son s arms giving,0.0
+categorical__n1_04_other_3_Funaral,0.0
+categorical__n1_04_other_5_for go to abroad,0.0
+categorical__n1_04_other_3_MECAL FEES,0.0
+categorical__n1_04_other_3_NO,0.0
+categorical__n1_04_other_3_TOILET,0.0
+categorical__n1_04_other_3_Threewheel repair,0.0
+categorical__n1_04_other_3_Toilet eka hadanna,0.0
+categorical__n1_04_other_3_Ukas kala raththaran badu bera ganna,0.0
+categorical__n1_04_other_3_for visit to dambadiwa,0.0
+categorical__n1_04_other_4_Go to abroad,0.0
+categorical__n1_04_other_4_Mother Disease,0.0
+categorical__n1_04_other_5_FOR FAMILY WEDDING,0.0
+categorical__n1_04_other_5_Fagher s funaral,0.0
+categorical__n1_04_other_5_Paid to a fraudulent employment agency Job not provided,0.0
+categorical__n1_04_other_5_To go abroad,0.0
+categorical__n1_04_other_2_For wedding,0.0
+categorical__n1_04_other_2_For treatment,0.0
+categorical__n1_04_other_2_For daudhters wedding,0.0
+categorical__n1_04_other_2_FOR VEHICLE REPAIR,0.0
+categorical__n1_04_other_1_FO THE WEDDING,0.0
+categorical__n1_04_other_1_FOR DHUAGTER,0.0
+categorical__n1_04_other_1_FOR EDUCATION,0.0
+categorical__n1_04_other_1_FOR THE SAKE OF THE DOUGHTER,0.0
+categorical__n1_04_other_1_FOR WEDDING PURPOSE,0.0
+categorical__n1_04_other_1_For Daughter Puberty ceremony,0.0
+categorical__n1_04_other_1_For Family needs,0.0
+categorical__n1_04_other_1_For family weddings,0.0
+categorical__n1_04_other_1_For study of children,0.0
+categorical__n1_04_other_1_Foreign Job,0.0
+categorical__n1_04_other_1_GO TO ABROAD,0.0
+categorical__n1_04_other_1_HEALTH PROBLEMS,0.0
+categorical__n1_04_other_1_HELTH OF PATNER,0.0
+categorical__n1_04_other_1_MAWAGE ABAWAYATA,0.0
+categorical__n1_04_other_1_OTHER,0.0
+categorical__n1_04_other_1_PERSONAL,0.0
+categorical__n1_04_other_1_SON S EDUCATION,0.0
+categorical__n1_04_other_1_Study,0.0
+categorical__n1_04_other_1_TO SEND THE CHILD TO THE COUNTRY,0.0
+categorical__n1_04_other_1_To give the daughter,0.0
+categorical__n1_04_other_1_University working,0.0
+categorical__n1_04_other_1_WEDDING PURPOSE,0.0
+categorical__n1_04_other_1_Wedding,0.0
+categorical__n1_04_other_1_personal matter,0.0
+categorical__n1_04_other_2_Deth of husband,0.0
+categorical__n1_04_other_2_EDUCATION,0.0
+categorical__n1_04_other_2_FOR FUNARAL HOME,0.0
+categorical__n1_04_other_5_WEDDING OF THE DAUGHTER,0.0
+categorical__n1_04_other_8_Wedding,0.0
+categorical__n1_04_other_1_EDUCATIONAL PURPOSE,0.0
+categorical__n2_02_other_Does Not Save,0.0
+categorical__n2_02_2 6,0.0
+categorical__n2_02_3,0.0
+categorical__n2_02_3 4,0.0
+categorical__n2_02_3 4 5,0.0
+categorical__n2_02_3 5,0.0
+categorical__n2_02_3 5 6,0.0
+categorical__n2_02_3 6,0.0
+categorical__n2_02_4,0.0
+categorical__n2_02_5,0.0
+categorical__n2_02_5 6,0.0
+categorical__n2_02_6,0.0
+categorical__n2_02_998,0.0
+categorical__n2_02_999,0.0
+categorical__n2_02_other_Does Not remain to Save,0.0
+categorical__n1_04_other_11_ABROAD,0.0
+categorical__n2_02_other_Insurance,0.0
+categorical__n2_02_other_Investment,0.0
+categorical__n2_02_other_NO,0.0
+categorical__n2_02_other_NO ITURU,0.0
+categorical__n2_02_other_NOT SAVING,0.0
+categorical__n2_02_other_NOT SAVING MONEY,0.0
+categorical__n2_02_other_No Saving,0.0
+categorical__n2_02_other_No Savings,0.0
+categorical__n2_02_other_No savings,0.0
+categorical__n2_02_other_Not save,0.0
+categorical__n2_02_other_POST OFFICE,0.0
+categorical__n2_02_other_Piggy bank,0.0
+categorical__n2_02_other_STOCK MARKET,0.0
+categorical__n2_02_2 5,0.0
+categorical__n2_02_2 3,0.0
+categorical__n2_02_2,0.0
+categorical__n2_02_1 6,0.0
+categorical__n1_04_other_11_ABROAD WORK,0.0
+categorical__n1_04_other_11_FOR ILLNESS,0.0
+categorical__n1_04_other_11_FOR SAVING,0.0
+categorical__n1_04_other_11_For Studies,0.0
+categorical__n1_04_other_11_For his sister,0.0
+categorical__n1_04_other_11_For their sisters wedding,0.0
+categorical__n1_04_other_11_Funeral expenditures,0.0
+categorical__n1_04_other_11_Heart operation,0.0
+categorical__n1_04_other_11_LAWYER FEES,0.0
+categorical__n1_04_other_11_NADU KATAYUTHU,0.0
+categorical__n1_04_other_11_NIWASE VIYADAM,0.0
+categorical__n1_04_other_11_Sahodaraya videsha gathwimata,0.0
+categorical__n1_04_other_11_Study,0.0
+categorical__n1_04_other_11_Videsha gathawima,0.0
+categorical__n1_04_other_12_Big girl party,0.0
+categorical__n1_04_other_12_For Education purpose,0.0
+categorical__n1_04_other_999_For the electricity connection,0.0
+categorical__n1_04_other_999_TO TAKE MADICINE,0.0
+categorical__n1_04_other_999_Ukas ganna,0.0
+categorical__n2_02_1 2 3,0.0
+categorical__n2_02_1 2 5,0.0
+categorical__n2_02_1 3,0.0
+categorical__n2_02_1 3 4,0.0
+categorical__n2_02_1 3 5,0.0
+categorical__n2_02_1 3 6,0.0
+categorical__n2_02_1 4,0.0
+categorical__n2_02_1 5,0.0
+categorical__n1_04_other_1_FATHER S BUSINESS,0.0
+categorical__n1_04_other_1_EDUCATION,0.0
+categorical__n1_04_4_4,0.0
+categorical__n1_04_7_5,0.0
+categorical__n1_04_5_9 12,0.0
+categorical__n1_04_5_999,0.0
+categorical__n1_04_6_2,0.0
+categorical__n1_04_6_2 7,0.0
+categorical__n1_04_6_3,0.0
+categorical__n1_04_6_6 8 10,0.0
+categorical__n1_04_6_6 9 11,0.0
+categorical__n1_04_6_8 9,0.0
+categorical__n1_04_6_8 9 12,0.0
+categorical__n1_04_6_9 11,0.0
+categorical__n1_04_6_9 12,0.0
+categorical__n1_04_7_1,0.0
+categorical__n1_04_7_2,0.0
+categorical__n1_04_7_6 8,0.0
+categorical__n1_04_9_6 8,0.0
+categorical__n1_04_7_8,0.0
+categorical__n1_04_8_1,0.0
+categorical__n1_04_8_2,0.0
+categorical__n1_04_8_4 6 7,0.0
+categorical__n1_04_8_8 9,0.0
+categorical__n1_04_8_9 10,0.0
+categorical__n1_04_8_999,0.0
+categorical__n1_04_9_11,0.0
+categorical__n1_04_9_11 12,0.0
+categorical__n1_04_9_2,0.0
+categorical__n1_04_9_2 11,0.0
+categorical__n1_04_9_3,0.0
+categorical__n1_04_9_6,0.0
+categorical__n1_04_5_9 11,0.0
+categorical__n1_04_5_9,0.0
+categorical__n1_04_5_8 9 11,0.0
+categorical__n1_04_5_8 9,0.0
+categorical__n1_04_4_4 7,0.0
+categorical__n1_04_4_5,0.0
+categorical__n1_04_4_6,0.0
+categorical__n1_04_4_7,0.0
+categorical__n1_04_4_8,0.0
+categorical__n1_04_4_9,0.0
+categorical__n1_04_4_999,0.0
+categorical__n1_04_5_1,0.0
+categorical__n1_04_5_11,0.0
+categorical__n1_04_5_11 12,0.0
+categorical__n1_04_5_12,0.0
+categorical__n1_04_5_2,0.0
+categorical__n1_04_5_2 3 6 7,0.0
+categorical__n1_04_5_3,0.0
+categorical__n1_04_5_3 11,0.0
+categorical__n1_04_5_3 4,0.0
+categorical__n1_04_5_3 8,0.0
+categorical__n1_04_5_3 8 9,0.0
+categorical__n1_04_5_4,0.0
+categorical__n1_04_5_4 11,0.0
+categorical__n1_04_5_5,0.0
+categorical__n1_04_5_5 9,0.0
+categorical__n1_04_5_6,0.0
+categorical__d_09_1 2 4 5 6 7,0.0
+categorical__n1_04_5_7 8,0.0
+categorical__n1_04_5_7 9,0.0
+categorical__n1_04_5_8,0.0
+categorical__n1_04_9_6 7 9 11,0.0
+categorical__n1_04_9_7,0.0
+categorical__n1_04_other_1_Daughter wedding,0.0
+categorical__n1_04_11_9 12,0.0
+categorical__n1_04_11_6,0.0
+categorical__n1_04_11_6 7 8,0.0
+categorical__n1_04_11_6 8 11,0.0
+categorical__n1_04_11_6 8 9,0.0
+categorical__n1_04_11_7,0.0
+categorical__n1_04_11_7 9,0.0
+categorical__n1_04_11_8,0.0
+categorical__n1_04_11_8 11,0.0
+categorical__n1_04_11_8 12,0.0
+categorical__n1_04_11_8 9,0.0
+categorical__n1_04_11_8 9 11,0.0
+categorical__n1_04_11_9,0.0
+categorical__n1_04_11_9 11,0.0
+categorical__n1_04_11_9 999,0.0
+categorical__n1_04_9_8,0.0
+categorical__n1_04_11_999,0.0
+categorical__n1_04_12_1,0.0
+categorical__n1_04_12_11 12,0.0
+categorical__n1_04_12_2,0.0
+categorical__n1_04_12_4,0.0
+categorical__n1_04_12_7,0.0
+categorical__n1_04_12_7 8 9,0.0
+categorical__n1_04_12_8,0.0
+categorical__n1_04_12_8 9 11 12,0.0
+categorical__n1_04_12_9,0.0
+categorical__n1_04_12_999,0.0
+categorical__n1_04_other_1_Agricultural,0.0
+categorical__n1_04_other_1_DOUGHTER S WEDDING,0.0
+categorical__n1_04_11_5 6,0.0
+categorical__n1_04_11_5,0.0
+categorical__n1_04_11_4 6 10,0.0
+categorical__n1_04_11_4 5,0.0
+categorical__n1_04_9_8 11,0.0
+categorical__n1_04_9_8 12,0.0
+categorical__n1_04_9_8 9,0.0
+categorical__n1_04_9_9,0.0
+categorical__n1_04_9_9 11,0.0
+categorical__n1_04_10_11,0.0
+categorical__n1_04_10_11 12,0.0
+categorical__n1_04_10_7,0.0
+categorical__n1_04_10_8,0.0
+categorical__n1_04_10_8 11 12,0.0
+categorical__n1_04_11_1,0.0
+categorical__n1_04_11_1 8,0.0
+categorical__n1_04_11_11,0.0
+categorical__n1_04_11_11 12,0.0
+categorical__n1_04_11_12,0.0
+categorical__n1_04_11_2,0.0
+categorical__n1_04_11_2 3,0.0
+categorical__n1_04_11_2 6 7 11 12,0.0
+categorical__n1_04_11_3,0.0
+categorical__n1_04_11_3 11,0.0
+categorical__n1_04_11_3 7,0.0
+categorical__n1_04_11_3 8,0.0
+categorical__n1_04_11_3 8 11,0.0
+categorical__n1_04_11_3 9,0.0
+categorical__n1_04_11_3 9 11,0.0
+categorical__n1_04_11_4,0.0
+categorical__n1_04_11_4 11,0.0
+categorical__d_09_1 2 4 6,0.0
+categorical__d_07_3 4,0.0
+categorical__d_09_1 2 4 5 6,0.0
+numeric__n1_04_5_5,0.0
+numeric__n1_04_5_7,0.0
+numeric__n1_04_5_8,0.0
+numeric__n1_04_5_9,0.0
+numeric__n1_04_5_10,0.0
+numeric__n1_04_5_11,0.0
+numeric__n1_04_5_12,0.0
+numeric__n1_04_5_999,0.0
+numeric__n1_04_6_1,0.0
+numeric__n1_04_6_2,0.0
+numeric__n1_04_6_3,0.0
+numeric__n1_04_6_4,0.0
+numeric__n1_04_6_5,0.0
+numeric__n1_04_6_6,0.0
+numeric__n1_04_6_7,0.0
+numeric__n1_04_6_8,0.0
+numeric__n1_04_6_9,0.0
+numeric__n1_04_6_10,0.0
+numeric__n1_04_6_11,0.0
+numeric__n1_04_6_12,0.0
+numeric__n1_04_6_999,0.0
+numeric__n1_04_7_1,0.0
+numeric__n1_04_7_2,0.0
+numeric__n1_04_7_3,0.0
+numeric__n1_04_7_4,0.0
+numeric__n1_04_7_5,0.0
+numeric__n1_04_7_6,0.0
+numeric__n1_04_7_7,0.0
+numeric__n1_04_5_6,0.0
+numeric__n1_04_5_4,0.0
+numeric__n1_04_2_12,0.0
+numeric__n1_04_5_3,0.0
+numeric__n1_04_3_1,0.0
+numeric__n1_04_3_2,0.0
+numeric__n1_04_3_3,0.0
+numeric__n1_04_3_4,0.0
+numeric__n1_04_3_5,0.0
+numeric__n1_04_3_6,0.0
+numeric__n1_04_3_7,0.0
+numeric__n1_04_3_8,0.0
+numeric__n1_04_3_9,0.0
+numeric__n1_04_3_10,0.0
+numeric__n1_04_3_11,0.0
+numeric__n1_04_3_12,0.0
+numeric__n1_04_3_999,0.0
+numeric__n1_04_4_1,0.0
+numeric__n1_04_4_2,0.0
+numeric__n1_04_4_4,0.0
+numeric__n1_04_4_5,0.0
+numeric__n1_04_4_6,0.0
+numeric__n1_04_4_7,0.0
+numeric__n1_04_4_8,0.0
+numeric__n1_04_4_9,0.0
+numeric__n1_04_4_10,0.0
+numeric__n1_04_4_11,0.0
+numeric__n1_04_4_12,0.0
+numeric__n1_04_4_999,0.0
+numeric__n1_04_5_1,0.0
+numeric__n1_04_5_2,0.0
+numeric__n1_04_7_8,0.0
+numeric__n1_04_7_9,0.0
+numeric__n1_04_7_10,0.0
+numeric__n1_04_7_11,0.0
+numeric__n1_04_10_3,0.0
+numeric__n1_04_10_4,0.0
+numeric__n1_04_10_5,0.0
+numeric__n1_04_10_6,0.0
+numeric__n1_04_10_7,0.0
+numeric__n1_04_10_8,0.0
+numeric__n1_04_10_9,0.0
+numeric__n1_04_10_10,0.0
+numeric__n1_04_10_11,0.0
+numeric__n1_04_10_12,0.0
+numeric__n1_04_10_999,0.0
+numeric__n1_04_11_1,0.0
+numeric__n1_04_11_2,0.0
+numeric__n1_04_11_3,0.0
+numeric__n1_04_11_4,0.0
+numeric__n1_04_11_5,0.0
+numeric__n1_04_11_6,0.0
+numeric__n1_04_11_7,0.0
+numeric__n1_04_11_8,0.0
+numeric__n1_04_11_9,0.0
+numeric__n1_04_11_10,0.0
+numeric__n1_04_11_11,0.0
+numeric__n1_04_11_12,0.0
+numeric__n1_04_11_999,0.0
+numeric__n1_04_12_1,0.0
+numeric__n1_04_12_2,0.0
+numeric__n1_04_12_3,0.0
+numeric__n1_04_10_2,0.0
+numeric__n1_04_10_1,0.0
+numeric__n1_04_9_999,0.0
+numeric__n1_04_8_11,0.0
+numeric__n1_04_7_12,0.0
+numeric__n1_04_7_999,0.0
+numeric__n1_04_8_1,0.0
+numeric__n1_04_8_2,0.0
+numeric__n1_04_8_3,0.0
+numeric__n1_04_8_4,0.0
+numeric__n1_04_8_5,0.0
+numeric__n1_04_8_6,0.0
+numeric__n1_04_8_7,0.0
+numeric__n1_04_8_8,0.0
+numeric__n1_04_8_9,0.0
+numeric__n1_04_8_10,0.0
+numeric__n1_04_8_12,0.0
+numeric__n1_04_9_12,0.0
+numeric__n1_04_8_999,0.0
+numeric__n1_04_9_1,0.0
+numeric__n1_04_9_2,0.0
+numeric__n1_04_9_3,0.0
+numeric__n1_04_9_4,0.0
+numeric__n1_04_9_5,0.0
+numeric__n1_04_9_6,0.0
+numeric__n1_04_9_7,0.0
+numeric__n1_04_9_8,0.0
+numeric__n1_04_9_9,0.0
+numeric__n1_04_9_10,0.0
+numeric__n1_04_9_11,0.0
+numeric__n1_04_2_999,0.0
+numeric__n1_04_2_11,0.0
+categorical__d_09_1 2 4 5,0.0
+numeric__c1_15_0,0.0
+numeric__c1_15_3,0.0
+numeric__c1_15_4,0.0
+numeric__c1_15_5,0.0
+numeric__c1_15_6,0.0
+numeric__c1_15_7,0.0
+numeric__c1_15_999,0.0
+numeric__d_respondent_hhassets,0.0
+numeric__d_07_0,0.0
+numeric__d_07_1,0.0
+numeric__d_07_2,0.0
+numeric__d_07_3,0.0
+numeric__d_07_4,0.0
+numeric__d_07_5,0.0
+numeric__d_07_6,0.0
+numeric__d_07_7,0.0
+numeric__d_07_8,0.0
+numeric__d_07_9,0.0
+numeric__d_09_0,0.0
+numeric__d_09_1,0.0
+numeric__d_09_5,0.0
+numeric__d_09_7,0.0
+numeric__d_09_8,0.0
+numeric__d_09_13,0.0
+numeric__d_10,0.0
+numeric__d_11_0,0.0
+numeric__d_11_1,0.0
+numeric__d_11_2,0.0
+numeric__c1_15_1,0.0
+numeric__c1_14_6,0.0
+numeric__n1_04_2_10,0.0
+numeric__c1_14_5,0.0
+numeric__c_respondent_housing,0.0
+numeric__c1_01,0.0
+numeric__c1_04,0.0
+numeric__c1_05,0.0
+numeric__c1_07,0.0
+numeric__c1_09,0.0
+numeric__c1_11_0,0.0
+numeric__c1_11_1,0.0
+numeric__c1_11_2,0.0
+numeric__c1_11_3,0.0
+numeric__c1_11_5,0.0
+numeric__c1_11_6,0.0
+numeric__c1_11_7,0.0
+numeric__c1_11_999,0.0
+numeric__c1_12_1,0.0
+numeric__c1_12_2,0.0
+numeric__c1_12_3,0.0
+numeric__c1_12_4,0.0
+numeric__c1_12_5,0.0
+numeric__c1_12_6,0.0
+numeric__c1_12_999,0.0
+numeric__c1_13,0.0
+numeric__c1_14_0,0.0
+numeric__c1_14_1,0.0
+numeric__c1_14_2,0.0
+numeric__c1_14_3,0.0
+numeric__c1_14_4,0.0
+numeric__d_11_3,0.0
+numeric__d_11_4,0.0
+numeric__d_11_5,0.0
+numeric__d_11_6,0.0
+numeric__n1_03_8,0.0
+numeric__n1_03_9,0.0
+numeric__n1_03_10,0.0
+numeric__n1_03_12,0.0
+numeric__n1_03_999,0.0
+numeric__n1_04_1_1,0.0
+numeric__n1_04_1_2,0.0
+numeric__n1_04_1_3,0.0
+numeric__n1_04_1_4,0.0
+numeric__n1_04_1_5,0.0
+numeric__n1_04_1_6,0.0
+numeric__n1_04_1_7,0.0
+numeric__n1_04_1_8,0.0
+numeric__n1_04_1_9,0.0
+numeric__n1_04_1_10,0.0
+numeric__n1_04_1_11,0.0
+numeric__n1_04_1_12,0.0
+numeric__n1_04_1_999,0.0
+numeric__n1_04_2_1,0.0
+numeric__n1_04_2_2,0.0
+numeric__n1_04_2_3,0.0
+numeric__n1_04_2_4,0.0
+numeric__n1_04_2_5,0.0
+numeric__n1_04_2_6,0.0
+numeric__n1_04_2_7,0.0
+numeric__n1_04_2_8,0.0
+numeric__n1_04_2_9,0.0
+numeric__n1_03_7,0.0
+numeric__n1_03_6,0.0
+numeric__n1_03_5,0.0
+numeric__n1_01_2,0.0
+numeric__d_11_7,0.0
+numeric__d_11_8,0.0
+numeric__d_13,0.0
+numeric__d_15,0.0
+numeric__d_19,0.0
+numeric__d_22c,0.0
+numeric__d_23,0.0
+numeric__d_23a,0.0
+numeric__d_23b,0.0
+numeric__d_23c,0.0
+numeric__n1_respondent,0.0
+numeric__n1_01_1,0.0
+numeric__n1_01_3,0.0
+numeric__n1_03_4,0.0
+numeric__n1_01_4,0.0
+numeric__n1_01_5,0.0
+numeric__n1_01_6,0.0
+numeric__n1_01_7,0.0
+numeric__n1_01_8,0.0
+numeric__n1_01_9,0.0
+numeric__n1_01_10,0.0
+numeric__n1_01_12,0.0
+numeric__n1_01_999,0.0
+numeric__n1_03_1,0.0
+numeric__n1_03_2,0.0
+numeric__n1_03_3,0.0
+numeric__n1_04_12_4,0.0
+numeric__n1_04_12_5,0.0
+numeric__n1_04_12_6,0.0
+categorical__c1_14_3,0.0
+categorical__c1_14_3 5 6,0.0
+categorical__c1_14_3 6,0.0
+categorical__c1_14_4,0.0
+categorical__c1_14_4 5,0.0
+categorical__c1_14_5,0.0
+categorical__c1_14_5 6,0.0
+categorical__c1_14_6,0.0
+categorical__c1_15_0,0.0
+categorical__c1_15_1,0.0
+categorical__c1_15_1 2,0.0
+categorical__c1_15_1 2 3,0.0
+categorical__c1_15_1 2 3 4,0.0
+categorical__c1_15_1 2 5,0.0
+categorical__c1_15_1 3,0.0
+categorical__c1_15_1 3 4,0.0
+categorical__c1_15_1 3 5,0.0
+categorical__c1_15_1 4,0.0
+categorical__c1_15_2,0.0
+categorical__c1_15_2 3 4,0.0
+categorical__c1_15_2 3 5,0.0
+categorical__c1_15_2 3 999,0.0
+categorical__c1_15_2 4,0.0
+categorical__c1_15_3,0.0
+categorical__c1_15_3 4,0.0
+categorical__c1_15_3 5,0.0
+categorical__c1_15_3 6,0.0
+categorical__c1_15_4,0.0
+categorical__c1_14_3 5,0.0
+categorical__c1_14_2,0.0
+numeric__n1_04_12_7,0.0
+categorical__c1_14_1 5,0.0
+categorical__c1_11_other_RECEIVED FROM NEXT DOOR,0.0
+categorical__c1_12_1,0.0
+categorical__c1_12_1 3,0.0
+categorical__c1_12_1 3 5,0.0
+categorical__c1_12_1 5,0.0
+categorical__c1_12_1 5 6,0.0
+categorical__c1_12_1 6,0.0
+categorical__c1_12_2 3 5,0.0
+categorical__c1_12_2 5,0.0
+categorical__c1_12_3,0.0
+categorical__c1_12_3 4 5,0.0
+categorical__c1_12_3 5,0.0
+categorical__c1_12_3 5 6,0.0
+categorical__c1_12_3 6,0.0
+categorical__c1_12_4,0.0
+categorical__c1_12_4 5,0.0
+categorical__c1_12_4 5 6,0.0
+categorical__c1_12_5,0.0
+categorical__c1_12_5 6,0.0
+categorical__c1_12_6,0.0
+categorical__c1_12_999,0.0
+categorical__c1_12_other_BRING A URBAN COUNSIL B,0.0
+categorical__c1_12_other_COLLECTING ANG PUTTING TO PLANTS,0.0
+categorical__c1_12_other_Compost,0.0
+categorical__c1_12_other_Dispose in homegarden,0.0
+categorical__c1_14_0,0.0
+categorical__c1_14_1 3,0.0
+categorical__c1_15_5,0.0
+categorical__c1_15_6,0.0
+categorical__c1_15_999,0.0
+categorical__c1_15_other_NO,0.0
+categorical__d_07_3 4 5 6 7,0.0
+categorical__d_07_3 5 6,0.0
+categorical__d_07_3 7 8,0.0
+categorical__d_07_4,0.0
+categorical__d_07_4 5,0.0
+categorical__d_07_4 5 6,0.0
+categorical__d_07_4 5 7,0.0
+categorical__d_07_4 6,0.0
+categorical__d_07_5,0.0
+categorical__d_07_5 6,0.0
+categorical__d_07_6,0.0
+categorical__d_07_9,0.0
+categorical__d_09_0,0.0
+categorical__d_09_1,0.0
+categorical__d_09_1 2,0.0
+categorical__d_09_1 2 3,0.0
+categorical__d_09_1 2 3 4,0.0
+categorical__d_09_1 2 3 4 5,0.0
+categorical__d_09_1 2 3 4 5 6,0.0
+categorical__d_09_1 2 3 4 5 6 7 8,0.0
+categorical__d_09_1 2 3 4 5 7,0.0
+categorical__d_09_1 2 3 4 6 7,0.0
+categorical__d_09_1 2 3 5,0.0
+categorical__d_09_1 2 3 5 6,0.0
+categorical__d_09_1 2 3 5 6 7 8,0.0
+categorical__d_09_1 2 3 6,0.0
+categorical__d_09_1 2 4,0.0
+categorical__d_07_3 4 5 6,0.0
+categorical__d_07_3 4 5,0.0
+categorical__d_07_3,0.0
+categorical__d_07_1 3 4,0.0
+categorical__c1_15_other_TAB,0.0
+categorical__d_07_0,0.0
+categorical__d_07_1,0.0
+categorical__d_07_1 2,0.0
+categorical__d_07_1 2 3,0.0
+categorical__d_07_1 2 3 4,0.0
+categorical__d_07_1 2 4,0.0
+categorical__d_07_1 2 4 5,0.0
+categorical__d_07_1 2 5 6,0.0
+categorical__d_07_1 2 5 6 7 8,0.0
+categorical__d_07_1 2 6,0.0
+categorical__d_07_1 3,0.0
+categorical__d_07_1 3 5 6,0.0
+categorical__d_07_2 7,0.0
+categorical__d_07_1 4,0.0
+categorical__d_07_1 4 5 6,0.0
+categorical__d_07_1 5,0.0
+categorical__d_07_1 5 6,0.0
+categorical__d_07_1 6,0.0
+categorical__d_07_2,0.0
+categorical__d_07_2 3,0.0
+categorical__d_07_2 3 4,0.0
+categorical__d_07_2 3 4 5,0.0
+categorical__d_07_2 4,0.0
+categorical__d_07_2 4 5,0.0
+categorical__d_07_2 5,0.0
+categorical__c1_11_999,0.0
+categorical__c1_11_6,0.0
+categorical__c1_11_5,0.0
+numeric__n2_02_4,0.0
+numeric__n1_05a_999,0.0
+numeric__n1_05b_1,0.0
+numeric__n1_05b_2,0.0
+numeric__n1_05b_3,0.0
+numeric__n1_05b_4,0.0
+numeric__n1_05b_5,0.0
+numeric__n1_05b_6,0.0
+numeric__n1_05b_9,0.0
+numeric__n1_05b_10,0.0
+numeric__n1_05b_11,0.0
+numeric__n1_05b_12,0.0
+numeric__n1_05b_999,0.0
+numeric__n1_06_1,0.0
+numeric__n1_06_2,0.0
+numeric__n1_06_3,0.0
+numeric__n1_06_4,0.0
+numeric__n1_06_5,0.0
+numeric__n1_06_6,0.0
+numeric__n1_06_7,0.0
+numeric__n1_06_8,0.0
+numeric__n1_06_9,0.0
+numeric__n1_06_10,0.0
+numeric__n1_06_12,0.0
+numeric__n1_06_999,0.0
+numeric__n2_respondent,0.0
+numeric__n2_01,0.0
+numeric__n2_02_1,0.0
+numeric__n1_05a_12,0.0
+numeric__n1_05a_11,0.0
+numeric__n1_05a_10,0.0
+numeric__n1_04_999_6,0.0
+numeric__n1_04_12_8,0.0
+numeric__n1_04_12_9,0.0
+numeric__n1_04_12_10,0.0
+numeric__n1_04_12_11,0.0
+numeric__n1_04_12_12,0.0
+numeric__n1_04_12_999,0.0
+numeric__n1_04_999,0.0
+numeric__n1_04_999_1,0.0
+numeric__n1_04_999_2,0.0
+numeric__n1_04_999_3,0.0
+numeric__n1_04_999_4,0.0
+numeric__n1_04_999_5,0.0
+numeric__n1_04_999_7,0.0
+numeric__n1_05a_9,0.0
+numeric__n1_04_999_8,0.0
+numeric__n1_04_999_9,0.0
+numeric__n1_04_999_10,0.0
+numeric__n1_04_999_11,0.0
+numeric__n1_04_999_12,0.0
+numeric__n1_04_999_999,0.0
+numeric__n1_05a_1,0.0
+numeric__n1_05a_3,0.0
+numeric__n1_05a_5,0.0
+numeric__n1_05a_6,0.0
+numeric__n1_05a_7,0.0
+numeric__n1_05a_8,0.0
+numeric__n2_02_2,0.0
+numeric__n2_02_5,0.0
+categorical__c1_11_3,0.0
+numeric__n2_02_6,0.0
+categorical__c1_04_other_DONOT NO,0.0
+categorical__c1_04_other_KATAGAL,0.0
+categorical__c1_04_other_WOOD,0.0
+categorical__c1_04_other_clay,0.0
+categorical__c1_05_other_Metal sheet,0.0
+categorical__c1_05_other_mud,0.0
+categorical__c1_06_other_Clay Tiles,0.0
+categorical__c1_07_other_Brothers home,0.0
+categorical__c1_07_other_By Government,0.0
+categorical__c1_07_other_Dowry house,0.0
+categorical__c1_07_other_Estate place,0.0
+categorical__c1_07_other_GOVERNMENT,0.0
+categorical__c1_07_other_Government Housing scheme,0.0
+categorical__c1_07_other_STATE LAND,0.0
+categorical__c1_07_other_this house belongs to her cousin she lives here since thirteen years and hope to live forward,0.0
+categorical__c1_08_other_NO TOILET,0.0
+categorical__c1_08_other_No toilets,0.0
+categorical__c1_08_other_PUBLIC TOILET,0.0
+categorical__c1_08_other_Using another home,0.0
+categorical__c1_08_other_Using neighbours home toilet,0.0
+categorical__c1_08_other_Using neighbours toilet,0.0
+categorical__c1_11_0,0.0
+categorical__c1_11_1,0.0
+categorical__c1_11_1 2,0.0
+categorical__c1_11_1 5,0.0
+categorical__c1_11_1 5 6,0.0
+categorical__c1_11_2,0.0
+categorical__c1_04_other_Bricks,0.0
+categorical__c1_04_other_Board,0.0
+categorical__c1_01_other_TEMPORARY HOUSE,0.0
+categorical__a_02_district_19,0.0
+numeric__n2_02_999,0.0
+numeric__n2_02_998,0.0
+numeric__n2_03,0.0
+categorical__a_02_district_1,0.0
+categorical__a_02_district_10,0.0
+categorical__a_02_district_11,0.0
+categorical__a_02_district_12,0.0
+categorical__a_02_district_13,0.0
+categorical__a_02_district_14,0.0
+categorical__a_02_district_16,0.0
+categorical__a_02_district_17,0.0
+categorical__a_02_district_18,0.0
+categorical__a_02_district_2,0.0
+categorical__c1_01_other_ROOM,0.0
+categorical__a_02_district_20,0.0
+categorical__a_02_district_21,0.0
+categorical__a_02_district_22,0.0
+categorical__a_02_district_23,0.0
+categorical__a_02_district_25,0.0
+categorical__a_02_district_3,0.0
+categorical__a_02_district_4,0.0
+categorical__a_02_district_5,0.0
+categorical__a_02_district_6,0.0
+categorical__a_02_district_7,0.0
+categorical__a_02_district_8,0.0
+categorical__a_02_district_9,0.0
+categorical__n2_02_other_sanasa,0.0
